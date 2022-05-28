@@ -1,0 +1,4 @@
+For Admin login
+
+	Phone = 5464
+	Pssword = admin
